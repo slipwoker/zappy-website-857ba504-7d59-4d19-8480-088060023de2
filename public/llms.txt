@@ -1,0 +1,89 @@
+# מירו — Generative Engine Optimization Map
+
+> A מזון ותבלינים business.
+
+---
+
+## Pages
+
+### Home
+https://-857ba504.zappy5.app
+
+### About
+https://-857ba504.zappy5.app/about
+
+### Categories
+https://-857ba504.zappy5.app/categories
+
+### Contact
+https://-857ba504.zappy5.app/contact
+
+### Products
+https://-857ba504.zappy5.app/products
+המוצרים שלנו - מירו
+
+### Cart
+https://-857ba504.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-857ba504.zappy5.app/checkout
+תשלום
+
+### Login
+https://-857ba504.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-857ba504.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-857ba504.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-857ba504.zappy5.app/product/:slug
+פרטי המוצר - מירו
+
+### Category
+https://-857ba504.zappy5.app/category/:slug
+מוצרים - מירו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-857ba504.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-857ba504.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-857ba504.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מירו
+מירו is a business in the מזון ותבלינים industry.
+
+## Target Audience
+- חובבי בישול
+- צרכנים מודעים לבריאות
+- בלוגרי מזון
+- קנייני גורמה
+- חובבי תבלינים
+
+## Industry
+מזון ותבלינים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-857ba504.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-857ba504.zappy5.app/robots.txt
